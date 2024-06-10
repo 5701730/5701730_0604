@@ -1,6 +1,6 @@
 ﻿#include <stdio.h>
 #include <stdlib.h>
-
+//5701730_박건우
 typedef int element;
 
 typedef struct DListNode {
